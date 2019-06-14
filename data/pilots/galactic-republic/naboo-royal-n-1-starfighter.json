@@ -57,7 +57,8 @@
         "text": "After you fully execute a speed 3-5 maneuver, you may perform an [Evade] action."
       },
       "caption": "Bravo Leader",
-      "hyperspace": false
+      "hyperspace": false,
+      "ability": "While you defend or perform a primary attack, if the speed of your revealed maneuver is higher than the enemy ship's, roll 1 additional die."
     },
     {
       "name": "Padmé Amidala",
